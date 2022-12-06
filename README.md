@@ -1,6 +1,6 @@
 <p align="center"> 
 <img  width="100" src="https://64.media.tumblr.com/044b87cbb77da1adad0949aefa09950c/tumblr_nkc8pp6xa91td8knko1_500.gif" align="center"/>
-<h3 align="center">WebApp Developer</h3><br><p align="center"> 
+<h3 align="center">Backend Developer</h3><br><p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
