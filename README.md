@@ -4,7 +4,7 @@
 </p>
 
 ```python
-from UNIVERSE import Moments, Life
+from UNIVERSE import Moments, Life, Growth
 
 
 def im_alive():
@@ -16,7 +16,7 @@ def im_alive():
 
 
 while im_alive():
-    develop_myself()
-    debug_mylife()
+    Growth.develop_myself()
+    Growth.debug_mylife()
     print("Life goes on..!")
 ```
