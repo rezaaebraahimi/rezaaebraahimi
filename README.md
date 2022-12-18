@@ -1,6 +1,5 @@
 <p align="center">
 <img align="center" width="250" src="https://c.tenor.com/EWpJzVNUW5cAAAAC/tenor.gif"></img>
-<h1 align="center"> Backend Developer </h1>
 </p>
 
 ```python
