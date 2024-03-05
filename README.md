@@ -1,3 +1,3 @@
 <p align="center">
-<h1 align="center">Develop Your Mind</h1>
+<h1 align="center">Mind Developer</h1>
 </p>
