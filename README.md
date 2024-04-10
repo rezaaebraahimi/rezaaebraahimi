@@ -8,10 +8,10 @@
 <tbody><tr><td><img src="https://skillicons.dev/icons?i=flask,ktor&theme=dark"/></td></tr></tbody>
 </table>
 <table>
-<table>
 <thead><tr><th>Databases</th></tr></thead>
 <tbody><tr><td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /></td></tr></tbody>
 </table>
+<table>
 <thead><tr><th>IDE & Editor</th></tr></thead>
 <tbody><tr><td><img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea&theme=dark" /></td></tr></tbody>
 </table>
