@@ -1,25 +1,18 @@
-<div align="center" >
-<table>
-<thead><tr><th>Languages Skills</th></tr></thead>
-<tbody><tr><td><img src="https://skillicons.dev/icons?i=kotlin,py,java&theme=dark"/></td></tr></tbody>
-</table>
-<table>
-<thead><tr><th>Frameworks</th></tr></thead>
-<tbody><tr><td><img src="https://skillicons.dev/icons?i=flask,ktor&theme=dark"/></td></tr></tbody>
-</table>
-<table>
-<thead><tr><th>Databases</th></tr></thead>
-<tbody><tr><td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /></td></tr></tbody>
-</table>
-<table>
-<thead><tr><th>IDE & Editor</th></tr></thead>
-<tbody><tr><td><img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea&theme=dark" /></td></tr></tbody>
-</table>
-<table>
-<thead><tr><th>Other</th></tr></thead>
-<tbody><tr><td>
-<img src="https://skillicons.dev/icons?i=github,git&theme=dark" />
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</td></tr></tbody>
-</table>
+<div>
+<img style="height:200px" src="https://github.com/rezaaebraahimi/rezaaebraahimi/assets/117990649/5a1e6dd0-8ebd-459b-90f6-9030e7b3e174"/>
+<h1>Reza Ebrahimi - Backend Developer</h1>
+
+- Developing Android applications using **Kotlin** and **Ktor**. <img style="height:25px" src="https://skillicons.dev/icons?i=kotlin,ktor&theme=dark"/><br>
+- Also familiar with **Python** and **Flask** for web app development. <img style="height:25px" src="https://skillicons.dev/icons?i=python,flask&theme=dark"/> <br>
+- Working experience with **MySQL** database and **SqlAlchemy** toolkit. <img style="height:25px" src="https://skillicons.dev/icons?i=mysql&theme=dark" /><br>
+- Other tools : <img style="height:20px" src="https://skillicons.dev/icons?i=git,github,html,css&theme=dark" />
+- IDEs : <img style="height:20px" src="https://skillicons.dev/icons?i=androidstudio,vscode,idea&theme=dark" />
+- Interested in **problem-solving** and Passionate about developing **new ideas**. <br>
+
+<hr>
+<h3>Connection With Me :</h3>
+  
+- <img style="height:20px" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />    : [Reza Ebrahimi - LinkedIn](https://www.linkedin.com/in/reza-ebrahimi-37a48a260) 
+- <img style="height:20px" src="https://skillicons.dev/icons?i=gmail&theme=dark" />    : rezaebrahimi.mastermind@gmail.com 
+
 </div>
