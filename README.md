@@ -3,6 +3,5 @@
 <h2>Reza Ebrahimi - Backend Developer</h2>
 - Familiar with Python, Flask and FastAPI. <img style="height:25px" src="https://skillicons.dev/icons?i=python,flask,fastapi&theme=dark"/> <br>
 - Working experience with MySQL, PostgreSQL and SqlAlchemy. <img style="height:25px" src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" /><br>
-- Other tools : <img style="height:20px" src="https://skillicons.dev/icons?i=git,github,html,css&theme=dark" /><br>
 - Interested in problem-solving and Passionate about developing new ideas. <br>
 </div>
